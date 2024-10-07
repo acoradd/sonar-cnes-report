@@ -158,7 +158,7 @@ public final class StringManager {
         // change locale
         Locale currentLocale = new Locale(language,country);
         // reload messages
-        messages = ResourceBundle.getBundle("messages", currentLocale);
+        messages = ResourceBundle.getBundle("cnesreport", currentLocale);
     }
 
     /**

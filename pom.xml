@@ -36,7 +36,7 @@
         <jacoco.version>0.8.12</jacoco.version>
         <sonar.apiVersion>10.7.0.2191</sonar.apiVersion>
         <sonar.testingHarnessVersion>10.5.1.90531</sonar.testingHarnessVersion>
-        <sonar.Version>10.5.1.90531</sonar.Version>
+        <sonar.Version>10.6.0.92116</sonar.Version>
         <sonar-packaging-maven-plugin.version>1.23.0.740</sonar-packaging-maven-plugin.version>
         <sonar.pluginKey>cnesreport</sonar.pluginKey>
         <sonar.organization>lequal</sonar.organization>
